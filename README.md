@@ -1,5 +1,10 @@
 # D-FLIPDLOP-NEGEDGE
 
+Name: G.GANGA DEVI
+
+REG:212224240042
+DATE: 12-11-25
+
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
